@@ -1,0 +1,16 @@
+{
+  "summary": "Project Sync Meeting with Roadmap Review",
+  "details": {
+    "title": "Prep Panel Planning Session",
+    "date": "2025-07-23",
+    "participants": ["Martin", "Tasha", "Devin"],
+    "agenda": [
+      "Finalize hook implementation and telemetry logic",
+      "Review Vite + Storybook integration flow",
+      "Plan next sprint deliverables and UI polish"
+    ],
+    "location": "Zoom",
+    "startTime": "14:00",
+    "duration": "60 minutes"
+  }
+}
