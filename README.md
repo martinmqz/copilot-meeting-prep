@@ -21,4 +21,24 @@ Built for fast development, mock/live testing, and scalable integration into pro
 - Microsoft 365 account for Graph API access (optional)
 -  Git (recommended)
 
-![image](https://martinstack.dev/pixel?r=copilot-meeting-prep)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://api.webect.com/px?r=copilot-meeting-prep)
